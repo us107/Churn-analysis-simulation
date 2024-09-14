@@ -5,6 +5,8 @@ A customer churn analysis simulation project for XYZ Analytics, showcasing advan
 
 ## About
 --------
+* .ipynb files contain all the Python codes for analysis and data evaluation.
+* .csv files contain all the datasets
 
 Conducted by Trisha Sharma
 
@@ -40,7 +42,7 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 This project is released under the MIT License.
 
-## Acknowledgments
+## Workflow
 ----------------
 
 * Completed a customer churn analysis simulation for XYZ Analytics, demonstrating advanced data analytics skills, identifying essential client data and outlining a strategic investigation approach.
